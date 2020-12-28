@@ -1,0 +1,323 @@
+/home/junkyul/anaconda3/envs/gmid2/bin/python /home/junkyul/conda/gmid2/gmid2/tests/run_st_gddbw2.py
+STRAT mdp1-4_2_2_5.uai
+roots		2
+sid		0
+w		1
+vo		24 20
+sid		5
+w		1
+vo		0 3
+sid		1
+w		4
+vo		20 23 19 15 16 17 18
+sid		2
+w		5
+vo		15 17 18 16 14 10 11 12 13
+sid		3
+w		5
+vo		10 12 13 11 9 5 6 7 8
+sid		4
+w		5
+vo		7 5 8 6 4 0 1 2 3
+build		0.5997190475463867
+prop		45.610647201538086
+ub		3.996669450280924
+END mdp1-4_2_2_5.uai
+STRAT mdp10-32_3_8_4.uai
+roots		7
+sid		0
+w		12
+vo		131 100 105 106 108 126 112 114 120 123 107 115 121
+sid		4
+w		4
+vo		0 13 20 25 31
+sid		5
+w		5
+vo		6 9 18 20 21 28
+sid		6
+w		3
+vo		6 12 23 25
+sid		7
+w		4
+vo		8 9 18 28 31
+sid		8
+w		3
+vo		20 22 24 27
+sid		9
+w		5
+vo		0 1 2 6 8 9 10 13 17 19 27 55 53 4 14 20 57 60
+sid		1
+w		30
+vo		100 114 119 111 122 99 108 115 130 127 121 123 126 106 120 112 107 105 124 117 98 67 72 73 75 93 79 81 87 90 74 82 88 70 76 78 96 66 97 85 92 77 80 83 91 84 86 94 68 71 69
+sid		2
+w		42
+vo		126 119 68 123 96 66 77 75 90 89 121 74 82 83 71 84 93 86 87 79 80 88 97 72 69 76 78 81 70 67 73 94 85 92 91 65 34 39 40 42 60 46 48 54 57 41 49 55 37 43 45 63 33 35 38 64 47 62 44 50 52 59 58 51 61 53 56 36
+sid		3
+w		42
+vo		86 90 88 93 50 42 45 60 47 40 48 62 46 54 41 55 33 49 56 34 58 44 38 37 61 39 36 51 43 53 57 64 35 63 59 52 32 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+build		85.73524260520935
+prop		5585.070290327072
+ub		28.32617811415465
+END mdp10-32_3_8_4.uai
+STRAT mdp2-8_3_4_5.uai
+roots		3
+sid		0
+w		3
+vo		44 37 41 42
+sid		5
+w		3
+vo		0 1 5 6
+sid		6
+w		2
+vo		0 1 6
+sid		1
+w		7
+vo		36 41 37 42 35 28 32 33 34 31 30
+sid		2
+w		9
+vo		30 27 33 28 32 34 31 26 19 23 24 25 22 21 20 18
+sid		3
+w		10
+vo		22 23 20 19 18 24 21 25 17 10 14 15 16 13 11 12 9
+sid		4
+w		10
+vo		13 14 11 10 9 16 15 12 8 0 1 2 3 4 5 6 7
+build		2.456150531768799
+prop		592.656984090805
+ub		13.806811235075232
+END mdp2-8_3_4_5.uai
+STRAT mdp3-10_3_5_10.uai
+roots		5
+sid		0
+w		6
+vo		109 101 105 107 108 100 104
+sid		1
+w		10
+vo		100 107 105 99 98 90 94 96 97 89 93 91 92 95 88
+sid		10
+w		3
+vo		0 1 6 8
+sid		11
+w		3
+vo		3 4 5 7
+sid		12
+w		7
+vo		2 4 5 9 7 8 1 6 14 15 16 18
+sid		13
+w		11
+vo		12 8 3 0 15 9 7 4 18 1 6 2 5 13 16 17 19 20 25 26 27 29
+sid		2
+w		13
+vo		92 100 108 107 105 101 104 90 94 91 89 93 96 95 97 88 87 79 83 85 86 78 82 80 81 84 77
+sid		3
+w		13
+vo		103 102 92 104 94 106 96 90 89 95 93 97 79 81 78 83 84 82 80 85 86 77 76 68 72 74 75 67 71 69 70 73 66
+sid		4
+w		14
+vo		92 81 91 78 93 84 95 82 83 85 79 86 67 69 72 70 71 68 73 66 74 75 65 57 61 63 64 56 60 58 59 62 55
+sid		5
+w		13
+vo		81 80 82 73 84 67 75 70 72 71 68 74 61 56 58 60 59 62 64 63 57 55 54 46 50 52 53 45 49 47 48 51 44
+sid		6
+w		13
+vo		73 70 69 63 71 62 56 59 61 57 60 64 47 50 45 48 49 46 52 51 53 44 43 35 39 41 42 34 38 36 37 40 33
+sid		7
+w		13
+vo		52 59 48 62 60 58 45 49 46 50 51 53 39 34 40 36 37 38 42 33 35 41 32 24 28 30 31 23 27 25 26 29 22
+sid		8
+w		13
+vo		49 37 48 47 38 34 51 41 35 39 40 42 23 27 26 28 25 29 31 22 24 30 21 13 17 19 20 12 16 14 15 18 11
+sid		9
+w		14
+vo		26 36 38 37 27 23 40 28 31 29 24 30 15 12 18 13 17 14 16 11 20 19 10 0 1 2 3 4 5 6 7 8 9
+build		35.96452784538269
+prop		5187.616247177124
+ub		43.430617639680676
+END mdp3-10_3_5_10.uai
+STRAT mdp4-10_3_5_10.uai
+roots		2
+sid		0
+w		7
+vo		109 100 102 103 104 105 106 99
+sid		10
+w		4
+vo		5 6 7 8 9
+sid		1
+w		12
+vo		108 102 104 105 100 106 99 103 107 98 89 91 92 93 94 95 88 96 97 90
+sid		2
+w		13
+vo		90 93 88 95 91 89 94 96 97 92 87 78 80 81 82 83 84 77 85 86 79
+sid		3
+w		13
+vo		80 82 78 84 83 79 77 85 86 81 76 67 69 70 71 72 73 66 74 75 68
+sid		4
+w		13
+vo		69 68 71 66 73 72 67 75 70 74 65 56 58 59 60 61 62 55 63 64 57
+sid		5
+w		13
+vo		62 60 61 56 58 63 57 55 64 59 54 45 47 48 49 50 51 44 52 53 46
+sid		6
+w		13
+vo		49 47 51 45 50 44 46 52 48 53 43 34 36 37 38 39 40 33 41 42 35
+sid		7
+w		13
+vo		38 33 35 36 40 39 34 42 41 37 32 23 25 26 27 28 29 22 30 31 24
+sid		8
+w		13
+vo		24 27 22 25 23 28 29 30 26 31 21 12 14 15 16 17 18 11 19 20 13
+sid		9
+w		13
+vo		13 14 11 16 18 19 12 17 20 15 10 0 1 2 3 4 5 6 7 8 9
+build		8.257509231567383
+prop		2736.6668949127197
+ub		41.735767052303984
+END mdp4-10_3_5_10.uai
+STRAT mdp5-16_3_8_10.uai
+roots		7
+sid		0
+w		7
+vo		169 155 162 157 164 163 166 167
+sid		10
+w		4
+vo		2 3 9 13 14
+sid		11
+w		5
+vo		2 3 5 6 8 15
+sid		12
+w		5
+vo		1 2 7 9 10 13
+sid		13
+w		5
+vo		0 3 5 6 8 10
+sid		14
+w		2
+vo		8 9 14
+sid		15
+w		5
+vo		3 4 5 7 8 9 10 11 12 13 14 6 15 25 26 31
+sid		1
+w		18
+vo		164 153 159 168 154 162 167 158 160 157 163 166 156 155 161 152 138 145 140 147 146 149 150 141 144 136 139 151 143 137 148 142
+sid		2
+w		20
+vo		146 161 148 162 167 138 139 151 140 141 137 136 147 145 142 143 150 149 144 135 121 128 123 130 129 132 133 124 127 119 122 134 126 120 131 125
+sid		3
+w		20
+vo		150 133 144 145 120 131 123 122 121 129 134 119 125 130 128 124 126 127 132 118 104 111 106 113 112 115 116 107 110 102 105 117 109 103 114 108
+sid		4
+w		20
+vo		128 106 127 133 114 112 117 104 105 108 103 102 116 115 107 113 109 111 110 101 87 94 89 96 95 98 99 90 93 85 88 100 92 86 97 91
+sid		5
+w		20
+vo		86 116 111 89 110 95 97 100 85 88 87 91 99 92 93 98 96 90 94 84 70 77 72 79 78 81 82 73 76 68 71 83 75 69 80 74
+sid		6
+w		19
+vo		93 71 94 99 69 70 80 72 83 78 82 74 68 77 79 75 73 76 81 67 53 60 55 62 61 64 65 56 59 51 54 66 58 52 63 57
+sid		7
+w		20
+vo		76 77 63 61 82 66 55 65 52 57 51 54 53 60 62 59 56 58 64 50 36 43 38 45 44 47 48 39 42 34 37 49 41 35 46 40
+sid		8
+w		20
+vo		59 35 60 65 37 36 49 38 48 44 46 45 43 34 40 41 39 42 47 33 19 26 21 28 27 30 31 22 25 17 20 32 24 18 29 23
+sid		9
+w		20
+vo		43 48 27 42 32 21 29 18 19 20 30 31 17 23 28 22 24 26 25 16 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+build		43.689027070999146
+prop		8109.163274765015
+ub		66.72302399695727
+END mdp5-16_3_8_10.uai
+STRAT mdp6-20_5_5_5.uai
+roots		2
+sid		0
+w		13
+vo		104 87 98 99 100 93 95 96 88 89 97 94 102 103
+sid		5
+w		4
+vo		3 13 14 15 16
+sid		1
+w		21
+vo		97 95 94 103 102 98 89 99 96 100 93 87 88 83 66 77 78 79 72 74 75 67 68 76 73 81 82 69 70 71 65 64 80 63
+sid		2
+w		29
+vo		81 77 76 74 82 68 75 80 79 70 72 71 65 69 67 63 66 73 64 78 62 45 56 57 58 51 53 54 46 47 55 52 60 61 48 43 44 49 50 59 42
+sid		3
+w		28
+vo		53 60 47 61 56 44 50 54 55 48 59 58 49 51 52 57 42 43 45 46 41 24 35 36 37 30 32 33 25 26 34 31 39 40 27 22 23 28 29 38 21
+sid		4
+w		28
+vo		40 29 39 35 26 23 32 28 36 34 31 33 27 30 37 38 24 21 22 25 20 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+build		24.451756954193115
+prop		8538.306903839111
+ub		24.017671587196396
+END mdp6-20_5_5_5.uai
+STRAT mdp7-28_3_6_5.uai
+roots		7
+sid		0
+w		9
+vo		144 116 125 130 133 123 131 137 141 142
+sid		5
+w		7
+vo		2 11 19 20 21 23 24 26
+sid		6
+w		6
+vo		3 9 11 12 16 17 18
+sid		7
+w		6
+vo		7 8 12 15 18 19 27
+sid		8
+w		4
+vo		3 5 20 25 27
+sid		9
+w		12
+vo		3 7 13 14 15 20 22 24 27 2 10 6 8 47 37 48 4 23 0 16 17 18 19 21 25 26 36 41 44 56
+sid		10
+w		9
+vo		4 5 13 15 17 18 19 23 25 26 21 16 10 20 49 1 0 2 6 8 9 32 34 54 56
+sid		1
+w		30
+vo		118 140 130 119 135 136 132 123 134 116 128 139 141 131 127 142 133 137 125 115 87 96 101 104 94 102 108 112 113 91 92 98 105 95 103 114 107 90 106 110 100 109 99 111 93 89 97 88
+sid		2
+w		40
+vo		141 119 124 123 135 136 134 121 131 92 128 106 143 101 113 89 105 93 107 90 102 109 87 91 100 111 94 97 95 104 108 99 103 112 110 98 88 96 114 86 58 67 72 75 65 73 79 83 84 62 63 69 76 61 71 80 66 74 85 78 59 60 64 77 81 82 70 68
+sid		3
+w		40
+vo		90 94 107 112 71 92 106 65 102 105 99 78 95 114 82 77 80 72 59 68 76 60 67 73 85 84 75 66 79 58 61 63 62 64 83 70 74 69 81 57 29 38 43 46 36 44 50 54 55 33 34 40 47 32 42 51 37 45 56 49 30 31 35 48 52 53 41 39
+sid		4
+w		39
+vo		66 76 77 65 61 70 83 63 78 73 53 85 43 31 47 48 29 49 34 35 44 32 56 33 55 41 54 42 51 50 37 46 40 36 30 38 39 45 52 28 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+build		221.12471270561218
+Traceback (most recent call last):
+  File "/home/junkyul/conda/gmid2/gmid2/tests/run_st_gddbw2.py", line 34, in <module>
+    st_gdd.propagate_iter()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 151, in propagate_iter
+    self.propagate()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 155, in propagate
+    self.bw(cid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 182, in bw
+    pgm_cluster.mp.propagate_iter()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 111, in propagate_iter
+    diff, bd = self.propagate()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 127, in propagate
+    self.update_weights_for_vid_np(vid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 441, in update_weights_for_vid_np
+    gradient = self._eval_weight_gradients_per_var_np(vid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 384, in _eval_weight_gradients_per_var_np
+    mu_p = cluster.update_pseudo_belief()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/message_passing.py", line 195, in update_pseudo_belief
+
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 358, in lse_pnorm_marginal
+    f = self * p                # this line creates a new Factor f from self * p
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 199, in __mul__
+    return self._combine(other, op=np.multiply)
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 167, in _combine
+    return self.build(self.scope.copy(), self.scope_vids.copy(), new_table)
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 63, in build
+    f = Factor()
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 31, in __init__
+    self.scope_vars = SortedSet(scope) if scope else SortedSet()
+  File "/home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py", line 152, in __init__
+    _list = self._list
+KeyboardInterrupt
+
+Process finished with exit code 1

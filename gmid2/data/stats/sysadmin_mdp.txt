@@ -1,0 +1,983 @@
+STRAT sysadmin_inst_mdp_9_s=50_t=5
+sysadmin_inst_mdp_9_s=50_t=5
+n		595
+c		345
+d		250
+f		845
+p		345
+u		500
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=5
+
+STRAT sysadmin_inst_mdp_8_s=40_t=3
+sysadmin_inst_mdp_8_s=40_t=3
+n		298
+c		178
+d		120
+f		418
+p		178
+u		240
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=3
+
+STRAT sysadmin_inst_mdp_4_s=20_t=10
+sysadmin_inst_mdp_4_s=20_t=10
+n		460
+c		260
+d		200
+f		660
+p		260
+u		400
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=10
+
+STRAT sysadmin_inst_mdp_3_s=20_t=5
+sysadmin_inst_mdp_3_s=20_t=5
+n		240
+c		140
+d		100
+f		340
+p		140
+u		200
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=5
+
+STRAT sysadmin_inst_mdp_8_s=40_t=5
+sysadmin_inst_mdp_8_s=40_t=5
+n		470
+c		270
+d		200
+f		670
+p		270
+u		400
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=5
+
+STRAT sysadmin_inst_mdp_2_s=10_t=9
+sysadmin_inst_mdp_2_s=10_t=9
+n		217
+c		127
+d		90
+f		307
+p		127
+u		180
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=9
+
+STRAT sysadmin_inst_mdp_4_s=20_t=3
+sysadmin_inst_mdp_4_s=20_t=3
+n		152
+c		92
+d		60
+f		212
+p		92
+u		120
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=3
+
+STRAT sysadmin_inst_mdp_6_s=30_t=5
+sysadmin_inst_mdp_6_s=30_t=5
+n		355
+c		205
+d		150
+f		505
+p		205
+u		300
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=5
+
+STRAT sysadmin_inst_mdp_10_s=50_t=6
+sysadmin_inst_mdp_10_s=50_t=6
+n		686
+c		386
+d		300
+f		986
+p		386
+u		600
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=6
+
+STRAT sysadmin_inst_mdp_7_s=40_t=9
+sysadmin_inst_mdp_7_s=40_t=9
+n		823
+c		463
+d		360
+f		1183
+p		463
+u		720
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=9
+
+STRAT sysadmin_inst_mdp_2_s=10_t=8
+sysadmin_inst_mdp_2_s=10_t=8
+n		194
+c		114
+d		80
+f		274
+p		114
+u		160
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=8
+
+STRAT sysadmin_inst_mdp_1_s=10_t=7
+sysadmin_inst_mdp_1_s=10_t=7
+n		171
+c		101
+d		70
+f		241
+p		101
+u		140
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=7
+
+STRAT sysadmin_inst_mdp_9_s=50_t=4
+sysadmin_inst_mdp_9_s=50_t=4
+n		486
+c		286
+d		200
+f		686
+p		286
+u		400
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=4
+
+STRAT sysadmin_inst_mdp_4_s=20_t=6
+sysadmin_inst_mdp_4_s=20_t=6
+n		284
+c		164
+d		120
+f		404
+p		164
+u		240
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=6
+
+STRAT sysadmin_inst_mdp_1_s=10_t=3
+sysadmin_inst_mdp_1_s=10_t=3
+n		79
+c		49
+d		30
+f		109
+p		49
+u		60
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=3
+
+STRAT sysadmin_inst_mdp_3_s=20_t=7
+sysadmin_inst_mdp_3_s=20_t=7
+n		328
+c		188
+d		140
+f		468
+p		188
+u		280
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=7
+
+STRAT sysadmin_inst_mdp_9_s=50_t=8
+sysadmin_inst_mdp_9_s=50_t=8
+n		922
+c		522
+d		400
+f		1322
+p		522
+u		800
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=8
+
+STRAT sysadmin_inst_mdp_7_s=40_t=7
+sysadmin_inst_mdp_7_s=40_t=7
+n		649
+c		369
+d		280
+f		929
+p		369
+u		560
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=7
+
+STRAT sysadmin_inst_mdp_2_s=10_t=5
+sysadmin_inst_mdp_2_s=10_t=5
+n		125
+c		75
+d		50
+f		175
+p		75
+u		100
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=5
+
+STRAT sysadmin_inst_mdp_6_s=30_t=7
+sysadmin_inst_mdp_6_s=30_t=7
+n		485
+c		275
+d		210
+f		695
+p		275
+u		420
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=7
+
+STRAT sysadmin_inst_mdp_10_s=50_t=9
+sysadmin_inst_mdp_10_s=50_t=9
+n		1004
+c		554
+d		450
+f		1454
+p		554
+u		900
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=9
+
+STRAT sysadmin_inst_mdp_4_s=20_t=7
+sysadmin_inst_mdp_4_s=20_t=7
+n		328
+c		188
+d		140
+f		468
+p		188
+u		280
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=7
+
+STRAT sysadmin_inst_mdp_5_s=30_t=9
+sysadmin_inst_mdp_5_s=30_t=9
+n		624
+c		354
+d		270
+f		894
+p		354
+u		540
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=9
+
+STRAT sysadmin_inst_mdp_5_s=30_t=7
+sysadmin_inst_mdp_5_s=30_t=7
+n		492
+c		282
+d		210
+f		702
+p		282
+u		420
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=7
+
+STRAT sysadmin_inst_mdp_6_s=30_t=4
+sysadmin_inst_mdp_6_s=30_t=4
+n		290
+c		170
+d		120
+f		410
+p		170
+u		240
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=4
+
+STRAT sysadmin_inst_mdp_1_s=10_t=6
+sysadmin_inst_mdp_1_s=10_t=6
+n		148
+c		88
+d		60
+f		208
+p		88
+u		120
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=6
+
+STRAT sysadmin_inst_mdp_8_s=40_t=6
+sysadmin_inst_mdp_8_s=40_t=6
+n		556
+c		316
+d		240
+f		796
+p		316
+u		480
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=6
+
+STRAT sysadmin_inst_mdp_4_s=20_t=9
+sysadmin_inst_mdp_4_s=20_t=9
+n		416
+c		236
+d		180
+f		596
+p		236
+u		360
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=9
+
+STRAT sysadmin_inst_mdp_4_s=20_t=4
+sysadmin_inst_mdp_4_s=20_t=4
+n		196
+c		116
+d		80
+f		276
+p		116
+u		160
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=4
+
+STRAT sysadmin_inst_mdp_10_s=50_t=8
+sysadmin_inst_mdp_10_s=50_t=8
+n		898
+c		498
+d		400
+f		1298
+p		498
+u		800
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=8
+
+STRAT sysadmin_inst_mdp_9_s=50_t=9
+sysadmin_inst_mdp_9_s=50_t=9
+n		1031
+c		581
+d		450
+f		1481
+p		581
+u		900
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=9
+
+STRAT sysadmin_inst_mdp_9_s=50_t=7
+sysadmin_inst_mdp_9_s=50_t=7
+n		813
+c		463
+d		350
+f		1163
+p		463
+u		700
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=7
+
+STRAT sysadmin_inst_mdp_1_s=10_t=10
+sysadmin_inst_mdp_1_s=10_t=10
+n		240
+c		140
+d		100
+f		340
+p		140
+u		200
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=10
+
+STRAT sysadmin_inst_mdp_9_s=50_t=10
+sysadmin_inst_mdp_9_s=50_t=10
+n		1140
+c		640
+d		500
+f		1640
+p		640
+u		1000
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=10
+
+STRAT sysadmin_inst_mdp_10_s=50_t=7
+sysadmin_inst_mdp_10_s=50_t=7
+n		792
+c		442
+d		350
+f		1142
+p		442
+u		700
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=7
+
+STRAT sysadmin_inst_mdp_8_s=40_t=10
+sysadmin_inst_mdp_8_s=40_t=10
+n		900
+c		500
+d		400
+f		1300
+p		500
+u		800
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=10
+
+STRAT sysadmin_inst_mdp_3_s=20_t=10
+sysadmin_inst_mdp_3_s=20_t=10
+n		460
+c		260
+d		200
+f		660
+p		260
+u		400
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=10
+
+STRAT sysadmin_mdp_a_s=3_t=3
+sysadmin_mdp_a_s=3_t=3
+n		24
+c		15
+d		9
+f		33
+p		15
+u		18
+k		3
+s		4
+END sysadmin_mdp_a_s=3_t=3
+
+STRAT sysadmin_inst_mdp_1_s=10_t=9
+sysadmin_inst_mdp_1_s=10_t=9
+n		217
+c		127
+d		90
+f		307
+p		127
+u		180
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=9
+
+STRAT sysadmin_inst_mdp_10_s=50_t=10
+sysadmin_inst_mdp_10_s=50_t=10
+n		1110
+c		610
+d		500
+f		1610
+p		610
+u		1000
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=10
+
+STRAT sysadmin_inst_mdp_7_s=40_t=8
+sysadmin_inst_mdp_7_s=40_t=8
+n		736
+c		416
+d		320
+f		1056
+p		416
+u		640
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=8
+
+STRAT sysadmin_inst_mdp_4_s=20_t=8
+sysadmin_inst_mdp_4_s=20_t=8
+n		372
+c		212
+d		160
+f		532
+p		212
+u		320
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=8
+
+STRAT sysadmin_inst_mdp_5_s=30_t=4
+sysadmin_inst_mdp_5_s=30_t=4
+n		294
+c		174
+d		120
+f		414
+p		174
+u		240
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=4
+
+STRAT sysadmin_inst_mdp_3_s=20_t=6
+sysadmin_inst_mdp_3_s=20_t=6
+n		284
+c		164
+d		120
+f		404
+p		164
+u		240
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=6
+
+STRAT sysadmin_inst_mdp_7_s=40_t=5
+sysadmin_inst_mdp_7_s=40_t=5
+n		475
+c		275
+d		200
+f		675
+p		275
+u		400
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=5
+
+STRAT sysadmin_inst_mdp_2_s=10_t=4
+sysadmin_inst_mdp_2_s=10_t=4
+n		102
+c		62
+d		40
+f		142
+p		62
+u		80
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=4
+
+STRAT sysadmin_inst_mdp_6_s=30_t=10
+sysadmin_inst_mdp_6_s=30_t=10
+n		680
+c		380
+d		300
+f		980
+p		380
+u		600
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=10
+
+STRAT sysadmin_inst_mdp_7_s=40_t=10
+sysadmin_inst_mdp_7_s=40_t=10
+n		910
+c		510
+d		400
+f		1310
+p		510
+u		800
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=10
+
+STRAT sysadmin_inst_mdp_9_s=50_t=3
+sysadmin_inst_mdp_9_s=50_t=3
+n		377
+c		227
+d		150
+f		527
+p		227
+u		300
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=3
+
+STRAT sysadmin_inst_mdp_10_s=50_t=4
+sysadmin_inst_mdp_10_s=50_t=4
+n		474
+c		274
+d		200
+f		674
+p		274
+u		400
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=4
+
+STRAT sysadmin_inst_mdp_2_s=10_t=10
+sysadmin_inst_mdp_2_s=10_t=10
+n		240
+c		140
+d		100
+f		340
+p		140
+u		200
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=10
+
+STRAT sysadmin_inst_mdp_7_s=40_t=4
+sysadmin_inst_mdp_7_s=40_t=4
+n		388
+c		228
+d		160
+f		548
+p		228
+u		320
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=4
+
+STRAT sysadmin_inst_mdp_8_s=40_t=7
+sysadmin_inst_mdp_8_s=40_t=7
+n		642
+c		362
+d		280
+f		922
+p		362
+u		560
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=7
+
+STRAT sysadmin_inst_mdp_5_s=30_t=5
+sysadmin_inst_mdp_5_s=30_t=5
+n		360
+c		210
+d		150
+f		510
+p		210
+u		300
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=5
+
+STRAT sysadmin_inst_mdp_5_s=30_t=8
+sysadmin_inst_mdp_5_s=30_t=8
+n		558
+c		318
+d		240
+f		798
+p		318
+u		480
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=8
+
+STRAT sysadmin_inst_mdp_2_s=10_t=3
+sysadmin_inst_mdp_2_s=10_t=3
+n		79
+c		49
+d		30
+f		109
+p		49
+u		60
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=3
+
+STRAT sysadmin_inst_mdp_1_s=10_t=8
+sysadmin_inst_mdp_1_s=10_t=8
+n		194
+c		114
+d		80
+f		274
+p		114
+u		160
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=8
+
+STRAT sysadmin_inst_mdp_2_s=10_t=6
+sysadmin_inst_mdp_2_s=10_t=6
+n		148
+c		88
+d		60
+f		208
+p		88
+u		120
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=6
+
+STRAT sysadmin_inst_mdp_6_s=30_t=9
+sysadmin_inst_mdp_6_s=30_t=9
+n		615
+c		345
+d		270
+f		885
+p		345
+u		540
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=9
+
+STRAT sysadmin_inst_mdp_6_s=30_t=8
+sysadmin_inst_mdp_6_s=30_t=8
+n		550
+c		310
+d		240
+f		790
+p		310
+u		480
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=8
+
+STRAT sysadmin_inst_mdp_6_s=30_t=3
+sysadmin_inst_mdp_6_s=30_t=3
+n		225
+c		135
+d		90
+f		315
+p		135
+u		180
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=3
+
+STRAT sysadmin_inst_mdp_1_s=10_t=5
+sysadmin_inst_mdp_1_s=10_t=5
+n		125
+c		75
+d		50
+f		175
+p		75
+u		100
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=5
+
+STRAT sysadmin_inst_mdp_1_s=10_t=4
+sysadmin_inst_mdp_1_s=10_t=4
+n		102
+c		62
+d		40
+f		142
+p		62
+u		80
+k		3
+s		6
+END sysadmin_inst_mdp_1_s=10_t=4
+
+STRAT sysadmin_inst_mdp_10_s=50_t=5
+sysadmin_inst_mdp_10_s=50_t=5
+n		580
+c		330
+d		250
+f		830
+p		330
+u		500
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=5
+
+STRAT sysadmin_inst_mdp_3_s=20_t=9
+sysadmin_inst_mdp_3_s=20_t=9
+n		416
+c		236
+d		180
+f		596
+p		236
+u		360
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=9
+
+STRAT sysadmin_inst_mdp_8_s=40_t=8
+sysadmin_inst_mdp_8_s=40_t=8
+n		728
+c		408
+d		320
+f		1048
+p		408
+u		640
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=8
+
+STRAT sysadmin_inst_mdp_10_s=50_t=3
+sysadmin_inst_mdp_10_s=50_t=3
+n		368
+c		218
+d		150
+f		518
+p		218
+u		300
+k		3
+s		11
+END sysadmin_inst_mdp_10_s=50_t=3
+
+STRAT sysadmin_inst_mdp_8_s=40_t=9
+sysadmin_inst_mdp_8_s=40_t=9
+n		814
+c		454
+d		360
+f		1174
+p		454
+u		720
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=9
+
+STRAT sysadmin_inst_mdp_5_s=30_t=3
+sysadmin_inst_mdp_5_s=30_t=3
+n		228
+c		138
+d		90
+f		318
+p		138
+u		180
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=3
+
+STRAT sysadmin_inst_mdp_7_s=40_t=6
+sysadmin_inst_mdp_7_s=40_t=6
+n		562
+c		322
+d		240
+f		802
+p		322
+u		480
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=6
+
+STRAT sysadmin_inst_mdp_6_s=30_t=6
+sysadmin_inst_mdp_6_s=30_t=6
+n		420
+c		240
+d		180
+f		600
+p		240
+u		360
+k		3
+s		10
+END sysadmin_inst_mdp_6_s=30_t=6
+
+STRAT sysadmin_inst_mdp_3_s=20_t=4
+sysadmin_inst_mdp_3_s=20_t=4
+n		196
+c		116
+d		80
+f		276
+p		116
+u		160
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=4
+
+STRAT sysadmin_inst_mdp_5_s=30_t=6
+sysadmin_inst_mdp_5_s=30_t=6
+n		426
+c		246
+d		180
+f		606
+p		246
+u		360
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=6
+
+STRAT sysadmin_inst_mdp_5_s=30_t=10
+sysadmin_inst_mdp_5_s=30_t=10
+n		690
+c		390
+d		300
+f		990
+p		390
+u		600
+k		3
+s		7
+END sysadmin_inst_mdp_5_s=30_t=10
+
+STRAT sysadmin_inst_mdp_3_s=20_t=3
+sysadmin_inst_mdp_3_s=20_t=3
+n		152
+c		92
+d		60
+f		212
+p		92
+u		120
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=3
+
+STRAT sysadmin_inst_mdp_7_s=40_t=3
+sysadmin_inst_mdp_7_s=40_t=3
+n		301
+c		181
+d		120
+f		421
+p		181
+u		240
+k		3
+s		8
+END sysadmin_inst_mdp_7_s=40_t=3
+
+STRAT sysadmin_mdp_a_s=2_t=3
+sysadmin_mdp_a_s=2_t=3
+n		17
+c		11
+d		6
+f		23
+p		11
+u		12
+k		3
+s		4
+END sysadmin_mdp_a_s=2_t=3
+
+STRAT sysadmin_inst_mdp_2_s=10_t=7
+sysadmin_inst_mdp_2_s=10_t=7
+n		171
+c		101
+d		70
+f		241
+p		101
+u		140
+k		3
+s		7
+END sysadmin_inst_mdp_2_s=10_t=7
+
+STRAT sysadmin_inst_mdp_9_s=50_t=6
+sysadmin_inst_mdp_9_s=50_t=6
+n		704
+c		404
+d		300
+f		1004
+p		404
+u		600
+k		3
+s		8
+END sysadmin_inst_mdp_9_s=50_t=6
+
+STRAT sysadmin_inst_mdp_8_s=40_t=4
+sysadmin_inst_mdp_8_s=40_t=4
+n		384
+c		224
+d		160
+f		544
+p		224
+u		320
+k		3
+s		9
+END sysadmin_inst_mdp_8_s=40_t=4
+
+STRAT sysadmin_inst_mdp_3_s=20_t=8
+sysadmin_inst_mdp_3_s=20_t=8
+n		372
+c		212
+d		160
+f		532
+p		212
+u		320
+k		3
+s		8
+END sysadmin_inst_mdp_3_s=20_t=8
+
+STRAT sysadmin_inst_mdp_4_s=20_t=5
+sysadmin_inst_mdp_4_s=20_t=5
+n		240
+c		140
+d		100
+f		340
+p		140
+u		200
+k		3
+s		10
+END sysadmin_inst_mdp_4_s=20_t=5

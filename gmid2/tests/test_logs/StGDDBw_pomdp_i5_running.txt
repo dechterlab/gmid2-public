@@ -1,0 +1,151 @@
+/home/junkyul/anaconda3/envs/gmid2/bin/python /home/junkyul/conda/gmid2/gmid2/tests/run_st_gddbw4.py
+algorithm		StGDDBw
+ibound		5
+alpha		1
+
+
+
+
+STRAT pomdp1-4_2_2_2_3.uai		Wed May 27 22:01:19 2020
+roots		1
+sid		0
+w		11
+vo		17 2 16 15 1 0 3 9 14 7 8 10 20 4 5 11 12 18 19 6 13
+sid		1
+w		7
+vo		3 2 0 1 8 10 7 9 13 4 5 11 12 6
+sid		2
+w		4
+vo		1 2 0 3 6 4 5
+build		1.854947805404663
+prop		277.46682572364807
+ub		5.997809352092062
+END pomdp1-4_2_2_2_3.uai		Wed May 27 22:05:58 2020
+
+STRAT pomdp10-12_7_3_8_4.uai		Wed May 27 22:05:58 2020
+roots		9
+sid		0
+w		39
+vo		60 67 29 22 4 0 3 64 20 62 24 71 66 28 9 68 70 1 7 5 11 27 26 2 6 8 10 23 21 30 31 61 40 25 43 49 65 51 41 47 42 46 45 44 48 50 79 12 13 14 15 16 17 18 32 33 34 35 36 37 38 52 53 54 55 56 57 58 72 73 74 75 76 77 78 19 39 59
+sid		4
+w		4
+vo		4 5 1 6 10 11 13 15
+sid		5
+w		1
+vo		6 7
+sid		6
+w		2
+vo		0 2 11
+sid		7
+w		3
+vo		2 5 6 10 12
+sid		8
+w		3
+vo		4 5 7 9
+sid		9
+w		4
+vo		0 8 9 10 3 5 26 27
+sid		10
+w		4
+vo		0 1 2 3 4 6 9 11 5 10 22 25 26 30 32
+sid		11
+w		4
+vo		2 3 4 7 8 5 29 6 9 24 25 27
+sid		1
+w		30
+vo		60 75 64 65 0 66 9 62 20 49 70 73 4 61 40 51 43 41 71 48 3 11 29 42 2 44 50 8 1 6 7 5 10 45 23 46 47 27 26 22 28 25 24 21 30 31 59 12 13 14 15 16 17 18 32 33 34 35 36 37 38 52 53 54 55 56 57 58 19 39
+sid		2
+w		22
+vo		47 70 62 66 55 72 53 0 64 50 11 51 40 41 48 44 49 2 9 43 65 42 67 46 29 4 45 69 1 3 10 6 8 7 5 23 20 27 25 21 24 31 28 30 22 26 39 12 13 14 15 16 17 18 32 33 34 35 36 37 38 19
+sid		3
+w		15
+vo		28 42 4 44 35 50 33 27 20 30 52 46 21 49 29 24 31 0 45 47 22 23 9 25 5 1 3 11 26 10 2 6 7 8 19 12 13 14 15 16 17 18
+build		154.75023865699768
+prop		4527.421678781509
+ub		46.87262741422394
+END pomdp10-12_7_3_8_4.uai		Wed May 27 23:24:02 2020
+
+STRAT pomdp2-2_2_2_2_3.uai		Wed May 27 23:24:02 2020
+roots		1
+sid		0
+w		10
+vo		1 0 11 10 5 6 14 2 3 7 8 12 13 4 9
+sid		1
+w		7
+vo		6 5 1 0 9 2 3 7 8 4
+sid		2
+w		4
+vo		1 0 4 2 3
+build		1.229322910308838
+prop		43.54111456871033
+ub		5.250382938347598
+END pomdp2-2_2_2_2_3.uai		Wed May 27 23:24:48 2020
+
+STRAT pomdp3-4_4_2_2_3.uai		Wed May 27 23:24:48 2020
+roots		1
+sid		0
+w		16
+vo		2 11 1 0 3 10 9 12 21 20 19 18 26 4 5 6 7 13 14 15 16 22 23 24 25 8 17
+sid		1
+w		11
+vo		2 3 0 1 11 12 10 9 17 4 5 6 7 13 14 15 16 8
+sid		2
+w		6
+vo		3 1 0 2 8 4 5 6 7
+build		3.474375009536743
+prop		298.835985660553
+ub		6.184197679303055
+END pomdp3-4_4_2_2_3.uai		Wed May 27 23:29:50 2020
+
+STRAT pomdp4-4_4_2_2_5.uai		Wed May 27 23:29:50 2020
+roots		2
+sid		0
+w		27
+vo		1 20 28 38 3 2 0 29 18 21 19 39 27 30 36 37 9 11 10 12 44 4 5 6 7 13 14 15 16 22 23 24 25 31 32 33 34 40 41 42 43 8 17 26 35
+sid		5
+w		3
+vo		0 2 3 7
+sid		1
+w		22
+vo		43 38 27 36 39 1 29 28 30 3 0 2 19 20 21 18 10 11 9 12 35 4 5 6 7 13 14 15 16 22 23 24 25 31 32 33 34 8 17 26
+sid		2
+w		17
+vo		34 10 20 2 29 30 27 0 1 3 18 19 21 9 11 12 26 4 5 6 7 13 14 15 16 22 23 24 25 8 17
+sid		3
+w		12
+vo		25 20 18 10 21 9 11 12 3 1 0 2 17 4 5 6 7 13 14 15 16 8
+sid		4
+w		7
+vo		16 11 12 9 0 2 1 3 8 4 5 6 7
+build		24.579079151153564
+Traceback (most recent call last):
+  File "/home/junkyul/conda/gmid2/gmid2/tests/run_st_gddbw4.py", line 41, in <module>
+    st_gdd.propagate_iter()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 151, in propagate_iter
+    self.propagate()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 155, in propagate
+    self.bw(cid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/st_gdd_bw.py", line 182, in bw
+    pgm_cluster.mp.propagate_iter()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 111, in propagate_iter
+    diff, bd = self.propagate()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 127, in propagate
+    self.update_weights_for_vid_np(vid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 441, in update_weights_for_vid_np
+    gradient = self._eval_weight_gradients_per_var_np(vid)
+  File "/home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py", line 384, in _eval_weight_gradients_per_var_np
+    mu_p = cluster.update_pseudo_belief()
+  File "/home/junkyul/conda/gmid2/gmid2/inference/message_passing.py", line 196, in update_pseudo_belief
+    lnZ0 -= lnZ1        # inplace to lnZ0 subtract lnZ1 and store it back to lnZ0       -inf - -inf??
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 227, in __isub__
+    return self._combine(other, op=np.subtract, inplace=True)
+  File "/home/junkyul/conda/gmid2/gmid2/basics/factor.py", line 180, in _combine
+    t1 = np.array(np.expand_dims(self.table, axis=[i for i, v in enumerate(new_scope) if v not in self.scope]))
+  File "<__array_function__ internals>", line 6, in expand_dims
+  File "/home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/lib/shape_base.py", line 600, in expand_dims
+    shape = [1 if ax in axis else next(shape_it) for ax in range(out_ndim)]
+  File "/home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/lib/shape_base.py", line 600, in <listcomp>
+    shape = [1 if ax in axis else next(shape_it) for ax in range(out_ndim)]
+KeyboardInterrupt
+
+Process finished with exit code 1

@@ -1,0 +1,479 @@
+STRAT rand-c70d21o1-01_std_1
+rand-c70d21o1-01_std_1
+n		91
+c		70
+d		21
+f		91
+p		70
+u		21
+k		2
+s		3
+END rand-c70d21o1-01_std_1
+
+STRAT pomdp10-12_7_3_8_4_std_1
+pomdp10-12_7_3_8_4_std_1
+n		80
+c		76
+d		4
+f		108
+p		76
+u		32
+k		3
+s		5
+END pomdp10-12_7_3_8_4_std_1
+
+STRAT rand-c70d14o1-01_std_1
+rand-c70d14o1-01_std_1
+n		84
+c		70
+d		14
+f		84
+p		70
+u		14
+k		2
+s		3
+END rand-c70d14o1-01_std_1
+
+STRAT ID_from_BN_78_w24d6_std_1
+ID_from_BN_78_w24d6_std_1
+n		54
+c		48
+d		6
+f		54
+p		48
+u		6
+k		2
+s		10
+END ID_from_BN_78_w24d6_std_1
+
+STRAT ID_from_BN_78_w18d3_std_1
+ID_from_BN_78_w18d3_std_1
+n		54
+c		51
+d		3
+f		54
+p		51
+u		3
+k		2
+s		10
+END ID_from_BN_78_w18d3_std_1
+
+STRAT mdp2-8_3_4_5_std_1
+mdp2-8_3_4_5_std_1
+n		45
+c		40
+d		5
+f		60
+p		40
+u		20
+k		3
+s		5
+END mdp2-8_3_4_5_std_1
+
+STRAT mdp1-4_2_2_5_std_1
+mdp1-4_2_2_5_std_1
+n		25
+c		20
+d		5
+f		30
+p		20
+u		10
+k		2
+s		4
+END mdp1-4_2_2_5_std_1
+
+STRAT mdp4-10_3_5_10_std_1
+mdp4-10_3_5_10_std_1
+n		110
+c		100
+d		10
+f		150
+p		100
+u		50
+k		3
+s		6
+END mdp4-10_3_5_10_std_1
+
+STRAT mdp9-32_3_8_3_std_1
+mdp9-32_3_8_3_std_1
+n		99
+c		96
+d		3
+f		120
+p		96
+u		24
+k		3
+s		9
+END mdp9-32_3_8_3_std_1
+
+STRAT pomdp7-20_10_2_10_3_std_1
+pomdp7-20_10_2_10_3_std_1
+n		93
+c		90
+d		3
+f		120
+p		90
+u		30
+k		2
+s		9
+END pomdp7-20_10_2_10_3_std_1
+
+STRAT rand-c20d2o1-01_std_1
+rand-c20d2o1-01_std_1
+n		22
+c		20
+d		2
+f		22
+p		20
+u		2
+k		2
+s		3
+END rand-c20d2o1-01_std_1
+
+STRAT mdp5-16_3_8_10_std_1
+mdp5-16_3_8_10_std_1
+n		170
+c		160
+d		10
+f		240
+p		160
+u		80
+k		3
+s		7
+END mdp5-16_3_8_10_std_1
+
+STRAT rand-c50d15o1-03_std_1
+rand-c50d15o1-03_std_1
+n		65
+c		50
+d		15
+f		65
+p		50
+u		15
+k		2
+s		3
+END rand-c50d15o1-03_std_1
+
+STRAT pomdp9-14_8_3_10_4_std_1
+pomdp9-14_8_3_10_4_std_1
+n		92
+c		88
+d		4
+f		128
+p		88
+u		40
+k		3
+s		6
+END pomdp9-14_8_3_10_4_std_1
+
+STRAT pomdp8-14_9_3_12_4_std_1
+pomdp8-14_9_3_12_4_std_1
+n		96
+c		92
+d		4
+f		140
+p		92
+u		48
+k		3
+s		6
+END pomdp8-14_9_3_12_4_std_1
+
+STRAT rand-c50d5o1-01_std_1
+rand-c50d5o1-01_std_1
+n		55
+c		50
+d		5
+f		55
+p		50
+u		5
+k		2
+s		3
+END rand-c50d5o1-01_std_1
+
+STRAT mdp10-32_3_8_4_std_1
+mdp10-32_3_8_4_std_1
+n		132
+c		128
+d		4
+f		160
+p		128
+u		32
+k		3
+s		7
+END mdp10-32_3_8_4_std_1
+
+STRAT ID_from_BN_14w42d6_std_1
+ID_from_BN_14w42d6_std_1
+n		115
+c		109
+d		6
+f		115
+p		109
+u		6
+k		2
+s		8
+END ID_from_BN_14w42d6_std_1
+
+STRAT ID_from_BN_78_w19d3_std_1
+ID_from_BN_78_w19d3_std_1
+n		54
+c		51
+d		3
+f		54
+p		51
+u		3
+k		2
+s		10
+END ID_from_BN_78_w19d3_std_1
+
+STRAT rand-c30d9o1-01_std_1
+rand-c30d9o1-01_std_1
+n		39
+c		30
+d		9
+f		39
+p		30
+u		9
+k		2
+s		3
+END rand-c30d9o1-01_std_1
+
+STRAT pomdp5-6_4_3_5_3_std_1
+pomdp5-6_4_3_5_3_std_1
+n		33
+c		30
+d		3
+f		45
+p		30
+u		15
+k		3
+s		5
+END pomdp5-6_4_3_5_3_std_1
+
+STRAT ID_from_BN_0_w28d6_std_1
+ID_from_BN_0_w28d6_std_1
+n		100
+c		94
+d		6
+f		100
+p		94
+u		6
+k		2
+s		6
+END ID_from_BN_0_w28d6_std_1
+
+STRAT mdp6-20_5_5_5_std_1
+mdp6-20_5_5_5_std_1
+n		105
+c		100
+d		5
+f		125
+p		100
+u		25
+k		5
+s		9
+END mdp6-20_5_5_5_std_1
+
+STRAT rand-c30d3o1-01_std_1
+rand-c30d3o1-01_std_1
+n		33
+c		30
+d		3
+f		33
+p		30
+u		3
+k		2
+s		3
+END rand-c30d3o1-01_std_1
+
+STRAT mdp8-28_3_6_4_std_1
+mdp8-28_3_6_4_std_1
+n		116
+c		112
+d		4
+f		136
+p		112
+u		24
+k		3
+s		9
+END mdp8-28_3_6_4_std_1
+
+STRAT mdp7-28_3_6_5_std_1
+mdp7-28_3_6_5_std_1
+n		145
+c		140
+d		5
+f		170
+p		140
+u		30
+k		3
+s		9
+END mdp7-28_3_6_5_std_1
+
+STRAT ID_from_BN_0_w32d11_std_1
+ID_from_BN_0_w32d11_std_1
+n		100
+c		89
+d		11
+f		100
+p		89
+u		11
+k		2
+s		6
+END ID_from_BN_0_w32d11_std_1
+
+STRAT ID_from_BN_14w57d12_std_1
+ID_from_BN_14w57d12_std_1
+n		115
+c		103
+d		12
+f		115
+p		103
+u		12
+k		2
+s		8
+END ID_from_BN_14w57d12_std_1
+
+STRAT pomdp4-4_4_2_2_5_std_1
+pomdp4-4_4_2_2_5_std_1
+n		45
+c		40
+d		5
+f		50
+p		40
+u		10
+k		2
+s		4
+END pomdp4-4_4_2_2_5_std_1
+
+STRAT pomdp2-2_2_2_2_3_std_1
+pomdp2-2_2_2_2_3_std_1
+n		15
+c		12
+d		3
+f		18
+p		12
+u		6
+k		2
+s		3
+END pomdp2-2_2_2_2_3_std_1
+
+STRAT rand-c30d6o1-01_std_1
+rand-c30d6o1-01_std_1
+n		36
+c		30
+d		6
+f		36
+p		30
+u		6
+k		2
+s		3
+END rand-c30d6o1-01_std_1
+
+STRAT pomdp3-4_4_2_2_3_std_1
+pomdp3-4_4_2_2_3_std_1
+n		27
+c		24
+d		3
+f		30
+p		24
+u		6
+k		2
+s		4
+END pomdp3-4_4_2_2_3_std_1
+
+STRAT pomdp6-12_6_2_6_3_std_1
+pomdp6-12_6_2_6_3_std_1
+n		57
+c		54
+d		3
+f		72
+p		54
+u		18
+k		2
+s		9
+END pomdp6-12_6_2_6_3_std_1
+
+STRAT rand-c50d10o1-01_std_1
+rand-c50d10o1-01_std_1
+n		60
+c		50
+d		10
+f		60
+p		50
+u		10
+k		2
+s		3
+END rand-c50d10o1-01_std_1
+
+STRAT mdp3-10_3_5_10_std_1
+mdp3-10_3_5_10_std_1
+n		110
+c		100
+d		10
+f		150
+p		100
+u		50
+k		3
+s		6
+END mdp3-10_3_5_10_std_1
+
+STRAT rand-c70d7o1-01_std_1
+rand-c70d7o1-01_std_1
+n		77
+c		70
+d		7
+f		77
+p		70
+u		7
+k		2
+s		3
+END rand-c70d7o1-01_std_1
+
+STRAT ID_from_BN_0_w33d11_std_1
+ID_from_BN_0_w33d11_std_1
+n		100
+c		89
+d		11
+f		100
+p		89
+u		11
+k		2
+s		6
+END ID_from_BN_0_w33d11_std_1
+
+STRAT ID_from_BN_0_w29d6_std_1
+ID_from_BN_0_w29d6_std_1
+n		100
+c		94
+d		6
+f		100
+p		94
+u		6
+k		2
+s		6
+END ID_from_BN_0_w29d6_std_1
+
+STRAT ID_from_BN_78_w23d6_std_1
+ID_from_BN_78_w23d6_std_1
+n		54
+c		48
+d		6
+f		54
+p		48
+u		6
+k		2
+s		10
+END ID_from_BN_78_w23d6_std_1
+
+STRAT pomdp1-4_2_2_2_3_std_1
+pomdp1-4_2_2_2_3_std_1
+n		21
+c		18
+d		3
+f		24
+p		18
+u		6
+k		2
+s		4
+END pomdp1-4_2_2_2_3_std_1

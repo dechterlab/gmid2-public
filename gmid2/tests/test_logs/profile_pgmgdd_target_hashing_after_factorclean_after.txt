@@ -1,0 +1,259 @@
+after hashing wgt_grad_target -> after Factor build change
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.009    0.009  147.272  147.272 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:98(propagate_iter)
+     1000    0.024    0.000  147.187    0.147 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:112(propagate)
+     3000    0.144    0.000   81.363    0.027 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:433(update_weights_for_vid_np)
+  1558502   11.762    0.000   72.768    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:159(_combine)
+     2000    0.182    0.000   64.368    0.032 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:159(update_costs_for_edge)
+  5247335   21.208    0.000   63.069    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:108(__init__)	**** 5828571 to 5247335
+   269508    2.125    0.000   60.750    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:221(update_bound)
+    78424    1.155    0.000   59.295    0.001 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:202(update_pseudo_belief)
+   509751    1.212    0.000   51.075    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:340(lse_pnorm_marginal)
+  1016457    4.552    0.000   47.632    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:236(_marginal)
+    12155    0.685    0.000   46.772    0.004 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:372(_eval_weight_gradients_per_var_np)
+    10024    0.139    0.000   35.527    0.004 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:185(_line_search_cost)
+    12155    0.122    0.000   34.280    0.003 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:456(_line_search_weight_np)
+    45830    0.165    0.000   33.162    0.001 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:360(_obj_weight_per_vid)
+  1124573    2.427    0.000   27.216    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:59(build)
+  5247353    6.763    0.000   26.587    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:141(__init__)
+    40005    0.157    0.000   26.561    0.001 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:234(_obj_cost_per_edge)
+    10024    0.106    0.000   26.488    0.003 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:225(_eval_prob_gradients)
+   455710    0.345    0.000   26.475    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:198(__mul__)
+  6740135   14.112    0.000   26.107    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:320(update)
+  1124575    3.066    0.000   24.789    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:26(__init__)
+   509751    0.452    0.000   23.283    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:292(lse_marginal)
+  1845205    1.618    0.000   21.603    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:171(_fromset)
+  1416356    1.646    0.000   17.804    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:374(copy)
+   349858    0.263    0.000   17.133    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:267(max_marginal)
+   165098    0.180    0.000   16.481    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:223(__iadd__)
+   206365    0.220    0.000   16.333    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:226(__isub__)
+  1579922    1.221    0.000   13.481    0.000 {built-in method numpy.core._multiarray_umath.implement_array_function}
+  1152974    3.994    0.000   11.664    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:664(update)
+   406235    0.756    0.000   10.307    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:643(union)
+   169924    0.305    0.000    9.773    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/copy.py:66(copy)
+   169920    0.365    0.000    9.336    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:426(__copy__)
+    27981    0.147    0.000    8.795    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:199(_set_cost)
+   330190    0.917    0.000    8.657    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:75(scope)
+   812400    0.588    0.000    8.242    0.000 <__array_function__ internals>:2(expand_dims)
+   156848    0.123    0.000    8.054    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:273(sum_marginal)
+ 13480284    4.886    0.000    7.887    0.000 {method 'extend' of 'list' objects}
+   835418    2.166    0.000    7.521    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:504(difference_update)
+   418825    0.576    0.000    6.991    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:480(difference)
+   812400    2.360    0.000    6.955    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/lib/shape_base.py:512(expand_dims)
+  4543968    1.958    0.000    6.289    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:317(__iter__)
+  1019457    5.965    0.000    5.965    0.000 {method 'reduce' of 'numpy.ufunc' objects}
+5853499/5447264    1.939    0.000    4.785    0.000 {built-in method builtins.iter}
+    38005    0.043    0.000    4.587    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:195(__sub__)
+   624070    0.498    0.000    4.259    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:229(__imul__)
+  3137259    4.040    0.000    4.040    0.000 {built-in method numpy.array}
+   509706    0.907    0.000    3.985    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:73(_wrapreduction)
+   352858    0.320    0.000    3.805    0.000 <__array_function__ internals>:2(amax)
+    27981    0.034    0.000    3.577    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:192(__add__)
+26484595/23947534    2.442    0.000    3.551    0.000 {built-in method builtins.len}
+    58376    0.485    0.000    3.326    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:458(entropy)
+  6740145    3.252    0.000    3.252    0.000 {built-in method builtins.sorted}
+   352858    0.468    0.000    3.165    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:2551(amax)
+    51297    0.268    0.000    2.861    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:102(_apply)
+  4543969    1.977    0.000    2.680    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:908(__iter__)
+   495584    0.520    0.000    2.622    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:403(discard)
+    41273    0.036    0.000    2.410    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:204(__radd__)
+    41273    0.036    0.000    2.384    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:124(exp)
+  5247353    1.600    0.000    2.318    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:171(__new__)
+  1164296    0.718    0.000    2.291    0.000 /home/junkyul/conda/gmid2/gmid2/basics/helper.py:5(reduce_tuples)
+   495592    0.690    0.000    2.020    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:422(remove)
+   812400    1.345    0.000    1.949    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/numeric.py:1277(normalize_axis_tuple)
+  1544866    1.101    0.000    1.906    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:240(<genexpr>)
+ 10067711    1.876    0.000    1.876    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:349(<genexpr>)
+   156848    0.132    0.000    1.843    0.000 <__array_function__ internals>:2(sum)
+  6297603    1.727    0.000    1.727    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:194(__contains__)
+    58376    0.054    0.000    1.579    0.000 {method 'clip' of 'numpy.ndarray' objects}
+   156848    0.244    0.000    1.573    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:2092(sum)
+  1492782    1.559    0.000    1.559    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:235(clear)
+    58376    0.141    0.000    1.525    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_methods.py:97(_clip)
+   406200    0.866    0.000    1.519    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:180(<listcomp>)
+   406200    0.822    0.000    1.439    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:182(<listcomp>)
+     4001    0.015    0.000    1.430    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:150(bounds)
+  5364100    1.404    0.000    1.404    0.000 {built-in method builtins.hasattr}
+  2537146    1.109    0.000    1.314    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:306(__len__)
+   116752    0.501    0.000    1.154    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_methods.py:63(_clip_dep_is_scalar_nan)
+ 10067711    1.125    0.000    1.125    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:351(<genexpr>)
+   418825    0.493    0.000    1.104    0.000 {method 'difference' of 'set' objects}
+  7092558    1.046    0.000    1.046    0.000 {built-in method __new__ of type object at 0x563ee8a26240}
+   812400    0.768    0.000    1.023    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/lib/shape_base.py:600(<listcomp>)
+    30675    0.626    0.000    0.944    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:415(_set_weights_per_vid_np)
+   495596    0.868    0.000    0.929    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:461(_delete)
+  7038832    0.812    0.000    0.812    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:71(scope)
+   812402    0.767    0.000    0.767    0.000 {method 'reshape' of 'numpy.ndarray' objects}
+  4207435    0.734    0.000    0.734    0.000 /home/junkyul/conda/gmid2/gmid2/basics/helper.py:6(<genexpr>)
+  4543974    0.703    0.000    0.703    0.000 {built-in method from_iterable}
+  3109145    0.613    0.000    0.613    0.000 {built-in method builtins.isinstance}
+   870776    0.268    0.000    0.563    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_asarray.py:88(asanyarray)
+    10024    0.008    0.000    0.521    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:110(__abs__)
+   116752    0.062    0.000    0.505    0.000 <__array_function__ internals>:2(ndim)
+   406209    0.365    0.000    0.476    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:271(comparer)
+   812400    0.260    0.000    0.476    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/numeric.py:1327(<listcomp>)
+   116752    0.183    0.000    0.377    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:3037(ndim)
+  1152940    0.377    0.000    0.377    0.000 {method 'update' of 'set' objects}
+   991184    0.364    0.000    0.364    0.000 {built-in method _bisect.bisect_left}
+   509706    0.293    0.000    0.293    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:74(<dictcomp>)
+    58376    0.039    0.000    0.265    0.000 <__array_function__ internals>:2(ravel)
+  2892828    0.255    0.000    0.255    0.000 {built-in method builtins.next}
+    82686    0.054    0.000    0.227    0.000 <__array_function__ internals>:2(dot)
+   633798    0.216    0.000    0.216    0.000 {built-in method numpy.core._multiarray_umath.normalize_axis_index}
+   116754    0.033    0.000    0.194    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_asarray.py:16(asarray)
+    58376    0.064    0.000    0.189    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:1693(ravel)
+    10024    0.016    0.000    0.181    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:536(intersection)
+    58376    0.151    0.000    0.151    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_methods.py:78(_clip_dep_invoke_with_casting)
+   116753    0.036    0.000    0.148    0.000 <frozen importlib._bootstrap>:1009(_handle_fromlist)
+    42830    0.118    0.000    0.118    0.000 {built-in method builtins.sum}
+    21519    0.070    0.000    0.107    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:311(_reset_weights_per_vid)
+   812400    0.098    0.000    0.098    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/lib/shape_base.py:508(_expand_dims_dispatcher)
+   495584    0.081    0.000    0.081    0.000 {method 'remove' of 'set' objects}
+   339842    0.081    0.000    0.081    0.000 {method 'difference_update' of 'set' objects}
+   509730    0.081    0.000    0.081    0.000 {method 'items' of 'dict' objects}
+   116752    0.064    0.000    0.078    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/_methods.py:73(_clip_dep_is_byte_swapped)
+   406200    0.077    0.000    0.077    0.000 {built-in method _operator.eq}
+    19910    0.075    0.000    0.075    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:216(_reset_cost)
+    58376    0.070    0.000    0.070    0.000 {method 'ravel' of 'numpy.ndarray' objects}
+    90844    0.048    0.000    0.066    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/graph.py:398(__iter__)
+   169928    0.064    0.000    0.064    0.000 {built-in method builtins.getattr}
+   352858    0.054    0.000    0.054    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:2546(_amax_dispatcher)
+     1000    0.007    0.000    0.049    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:143(_extract_max)
+     3000    0.014    0.000    0.042    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:49(extract_max)
+    12155    0.041    0.000    0.041    0.000 {built-in method builtins.max}
+   169932    0.041    0.000    0.041    0.000 {method 'get' of 'dict' objects}
+    10024    0.014    0.000    0.031    0.000 {method 'intersection' of 'set' objects}
+    30675    0.030    0.000    0.030    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:423(<listcomp>)
+    58385    0.028    0.000    0.028    0.000 {method 'index' of 'list' objects}
+   169924    0.028    0.000    0.028    0.000 {built-in method builtins.issubclass}
+   156848    0.023    0.000    0.023    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:2087(_sum_dispatcher)
+    12155    0.022    0.000    0.022    0.000 {built-in method numpy.zeros}
+    12155    0.018    0.000    0.018    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:410(<listcomp>)
+    22179    0.016    0.000    0.016    0.000 {built-in method builtins.min}
+    78424    0.015    0.000    0.015    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:191(scope_vars)
+    82686    0.015    0.000    0.015    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/multiarray.py:707(dot)
+    12155    0.014    0.000    0.014    0.000 {built-in method builtins.abs}
+   116752    0.013    0.000    0.013    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:3033(_ndim_dispatcher)
+     1001    0.013    0.000    0.013    0.000 {method 'format' of 'str' objects}
+     1001    0.011    0.000    0.011    0.000 {built-in method builtins.print}
+    58376    0.008    0.000    0.008    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:1689(_ravel_dispatcher)
+        1    0.000    0.000    0.003    0.003 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:229(mini_bucket_tree_decomposition)
+        1    0.000    0.000    0.001    0.001 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:41(build_message_graph)
+        1    0.000    0.000    0.001    0.001 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:305(join_graph_decomposition)
+       13    0.000    0.000    0.001    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:29(__init__)
+       12    0.000    0.000    0.001    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:276(rev_topo_sort)
+     2001    0.001    0.000    0.001    0.000 {built-in method time.time}
+        3    0.000    0.000    0.001    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:27(combine_factor_list)
+       28    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:237(children)
+        5    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:277(<dictcomp>)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:104(remove_node_by_bid)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:59(schedule)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:165(__init__)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:152(add_edge_by_mid)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:174(remove_edge_by_mid)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:291(topo_sort)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:64(merge)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:180(<dictcomp>)
+       59    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sorteddict.py:287(__setitem__)
+       89    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:250(add)
+       18    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sorteddict.py:109(__init__)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:71(init_propagate)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:18(const_factor)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:41(combine_factors)
+       10    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:61(_update_vids)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:131(_add_vid_to_bucket_from_mid)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:135(_remove_vid_in_bucket_from_mid)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:228(parents)
+        7    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:95(add_bucket_node)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/message.py:71(__init__)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/message.py:42(__init__)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:292(<dictcomp>)
+       18    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sorteddict.py:534(update)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:25(__init__)
+       36    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:341(add)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:231(<dictcomp>)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:84(__init__)
+       12    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sorteddict.py:239(__delitem__)
+       52    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:286(_expand)
+       12    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:933(__call__)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:14(__init__)
+       11    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:642(__init__)
+       13    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+        2    0.000    0.000    0.000    0.000 <__array_function__ internals>:2(argsort)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:92(register_message)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:997(argsort)
+      141    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+        2    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:55(_wrapfunc)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:122(_remove_src2mids)
+       52    0.000    0.000    0.000    0.000 {built-in method _bisect.bisect_right}
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedset.py:427(pop)
+       15    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:279(<genexpr>)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:841(edges)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:42(_wrapit)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:117(_add_src2mids)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:270(__init__)
+       10    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:381(add_node)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:577(add_edge)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:906(__init__)
+        4    0.000    0.000    0.000    0.000 {built-in method _functools.reduce}
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:14(table_length)
+       28    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:784(successors)
+       33    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:384(<genexpr>)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:907(in_edges)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sortedlist.py:1307(pop)
+       26    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:401(<genexpr>)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:1053(__init__)
+       11    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/graph.py:1827(nbunch_iter)
+       13    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:256(<lambda>)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/message.py:12(__init__)
+        9    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:271(<lambda>)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:177(<listcomp>)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:10(variables_from_vids)
+        7    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:665(__iter__)
+       30    0.000    0.000    0.000    0.000 {method 'add' of 'set' objects}
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:321(<lambda>)
+       13    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:816(predecessors)
+       38    0.000    0.000    0.000    0.000 {function SortedDict.update at 0x7fdee58b4050}
+       11    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:649(<lambda>)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:743(<genexpr>)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:742(__iter__)
+        2    0.000    0.000    0.000    0.000 {method 'argsort' of 'numpy.ndarray' objects}
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:62(<lambda>)
+        7    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/directed_network.py:294(<genexpr>)
+        9    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:666(<genexpr>)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:344(succ)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:365(pred)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:125(_add_mid_to_bucket)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:705(remove_edge)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:128(_remove_mid_from_bucket)
+        6    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:144(reset_dest_mid)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/pgm_gdd.py:44(<listcomp>)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:11(<listcomp>)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:179(<dictcomp>)
+        4    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/digraph.py:498(remove_node)
+       12    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/coreviews.py:44(__init__)
+       12    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:36(<genexpr>)
+        2    0.000    0.000    0.000    0.000 {method 'transpose' of 'numpy.ndarray' objects}
+       12    0.000    0.000    0.000    0.000 {method 'pop' of 'list' objects}
+       13    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:243(<genexpr>)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:15(<lambda>)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:187(<dictcomp>)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/message_passing.py:188(<dictcomp>)
+        1    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/sortedcontainers/sorteddict.py:263(__iter__)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:46(<listcomp>)
+        6    0.000    0.000    0.000    0.000 {built-in method _bisect.insort_right}
+        3    0.000    0.000    0.000    0.000 {built-in method _operator.lt}
+        6    0.000    0.000    0.000    0.000 {built-in method _operator.le}
+       14    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/bucket.py:245(<genexpr>)
+       12    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/inference/helper.py:15(<genexpr>)
+       11    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:649(<listcomp>)
+        3    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:915(__iter__)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+        1    0.000    0.000    0.000    0.000 {built-in method builtins.callable}
+        6    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/reportviews.py:657(<lambda>)
+       11    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/networkx/classes/graph.py:416(__contains__)
+        8    0.000    0.000    0.000    0.000 /home/junkyul/conda/gmid2/gmid2/basics/factor.py:36(<lambda>)
+        2    0.000    0.000    0.000    0.000 /home/junkyul/anaconda3/envs/gmid2/lib/python3.7/site-packages/numpy/core/fromnumeric.py:993(_argsort_dispatcher)
